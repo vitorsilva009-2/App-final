@@ -180,7 +180,7 @@ def main():
         """)
 
         st.header("📊 Estatísticas")
-        st.metric("Palavras no dicionário", 100000000 )
+        st.metric("Palavras no dicionário", 830 )
 
         # Palavra do dia
         st.header("🎲 Palavra aleatória")
