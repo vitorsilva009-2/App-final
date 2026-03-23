@@ -166,10 +166,10 @@ def main():
     # Sidebar com informações
     with st.sidebar:
         st.header("st.logo(
-    LOGO_URL_LARGE,
-    link="https://streamlit.io/gallery",
-    icon_image=LOGO_URL_SMALL,
-    ) Sobre o Projeto")
+            LOGO_URL_LARGE,
+            link="https://streamlit.io/gallery",
+            icon_image=LOGO_URL_SMALL,
+             Sobre o Projeto"))
         st.write("""
         Este tradutor utiliza o vocabulário bilíngue Terena ↔ Português 
         estruturado com fontes de pesquisa confiáveis
